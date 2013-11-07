@@ -11,6 +11,8 @@ namespace TestConnetORCL
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Dept { get; set; }
+
+
         //HIRE_DATE
         //CREDIT_LIMIT
         //PHONE_EXT
